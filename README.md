@@ -7,6 +7,10 @@ BLEBLEBLE
 
 ## Purpose
 
+BLIBLIBLI
+
 ## Deployment
+
+BLOBLOBLO
 
 ## How To Contribute
