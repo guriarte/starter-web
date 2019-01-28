@@ -1,9 +1,12 @@
 ## Starter Web Repo
 
+BLABLABLA
 ## Introduction
+
+BLEBLEBLE
 
 ## Purpose
 
-##Deployment
+## Deployment
 
 ## How To Contribute
